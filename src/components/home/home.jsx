@@ -39,7 +39,7 @@ function Home() {
                         <a href="https://www.instagram.com/frontier_dude/" target="blank"><FaInstagram/></a>
                     </button>
                     <button className="primary">
-                    <a href="https://www.facebook.com/suraj.jena.771/" target="blank"><FaLinkedinIn/></a>
+                    <a href="https://www.linkedin.com/in/akj2607/" target="blank"><FaLinkedinIn/></a>
                     </button>
                     </div>
                 </div>
